@@ -1,0 +1,6 @@
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\bin\Release\MogreSimpleApp.XML
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\bin\Release\MogreSimpleApp.exe
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\bin\Release\MogreSimpleApp.pdb
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\obj\x86\Release\MogreSimpleApp.exe
+C:\Users\alfredo-windows\Programmazione\F#\MogreSimpleApp\MogreSimpleApp\obj\x86\Release\MogreSimpleApp.pdb

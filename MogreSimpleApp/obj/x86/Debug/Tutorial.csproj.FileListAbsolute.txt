@@ -1,0 +1,7 @@
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\bin\Debug\Tutorial.exe.config
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\bin\Debug\Tutorial.exe
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\bin\Debug\Tutorial.pdb
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\bin\Debug\Mogre.xml
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\obj\x86\Debug\Tutorial.exe
+C:\Users\alfredo-windows\Programmazione\C#\MogreSimpleApp\obj\x86\Debug\Tutorial.pdb
